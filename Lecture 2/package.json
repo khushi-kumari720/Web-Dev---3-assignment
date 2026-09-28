@@ -1,0 +1,12 @@
+{
+  "name": "student-management-api-v2",
+  "version": "1.0.0",
+  "description": "Student Management REST API - Version 2 (class-based, centralized error handling)",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
